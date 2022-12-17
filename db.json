@@ -3367,5 +3367,375 @@
       "state": "Les Escaldes",
       "id": 12
     }
-  ]
+  ],
+  "Continents": {
+    "ASIA": [
+      {
+        "country": "India",
+        "holidays": "3262 holiday homes"
+      },
+      {
+        "country": "Thailand",
+        "holidays": "1284 holiday homes"
+      },
+      {
+        "country": "Sri Lanka",
+        "holidays": "646 holiday homes"
+      },
+      {
+        "country": "Indonesia",
+        "holidays": "622 holiday homes"
+      },
+      {
+        "country": "Philippines",
+        "holidays": "378 holiday homes"
+      },
+      {
+        "country": "United Arab Emirates",
+        "holidays": "146 holiday homes"
+      },
+      {
+        "country": "Georgia",
+        "holidays": "102 holiday homes"
+      },
+      {
+        "country": "Turkey",
+        "holidays": "70 holiday homes"
+      },
+      {
+        "country": "Israel",
+        "holidays": "53 holiday homes"
+      },
+      {
+        "country": "Malaysia",
+        "holidays": "49 holiday homes"
+      },
+      {
+        "country": "Japan",
+        "holidays": "46 holiday homes"
+      },
+      {
+        "country": "Viet Nam",
+        "holidays": "37 holiday homes"
+      },
+      {
+        "country": "Cambodia",
+        "holidays": "26 holiday homes"
+      },
+      {
+        "country": "Nepal",
+        "holidays": "22 holiday homes"
+      },
+      {
+        "country": "Maldives",
+        "holidays": "19 holiday homes"
+      },
+      {
+        "country": "Taiwan, Province Of China",
+        "holidays": "17 holiday homes"
+      },
+      {
+        "country": "Hong Kong Special Administrative Region Of China",
+        "holidays": "16 holiday homes"
+      },
+      {
+        "country": "Republic Of Korea",
+        "holidays": "12 holiday homes"
+      },
+      {
+        "country": "Oman",
+        "holidays": "7 holiday homes"
+      },
+      {
+        "country": "Bangladesh",
+        "holidays": "5 holiday homes"
+      }
+    ],
+    "EUROPE": [
+      {
+        "country": "Croatia",
+        "holidays": "15594 holiday homes"
+      },
+      {
+        "country": "Denmark",
+        "holidays": "14385 holiday homes"
+      },
+      {
+        "country": "Italy",
+        "holidays": "9268 holiday homes"
+      },
+      {
+        "country": "Spain",
+        "holidays": "4737 holiday homes"
+      },
+      {
+        "country": "France",
+        "holidays": "3791 holiday homes"
+      },
+      {
+        "country": "Switzerland",
+        "holidays": "2770 holiday homes"
+      },
+      {
+        "country": "Finland",
+        "holidays": "2086 holiday homes"
+      },
+      {
+        "country": "Germany",
+        "holidays": "1910 holiday homes"
+      },
+      {
+        "country": "Hungary",
+        "holidays": "1260 holiday homes"
+      },
+      {
+        "country": "Austria",
+        "holidays": "1193 holiday homes"
+      },
+      {
+        "country": "Greece",
+        "holidays": "941 holiday homes"
+      },
+      {
+        "country": "United Kingdom Of Great Britain And Northern Ireland",
+        "holidays": "899 holiday homes"
+      },
+      {
+        "country": "Sweden",
+        "holidays": "677 holiday homes"
+      },
+      {
+        "country": "Cyprus",
+        "holidays": "593 holiday homes"
+      },
+      {
+        "country": "Czech Republic",
+        "holidays": "585 holiday homes"
+      },
+      {
+        "country": "Portugal",
+        "holidays": "566 holiday homes"
+      },
+      {
+        "country": "Norway",
+        "holidays": "513 holiday homes"
+      },
+      {
+        "country": "Netherlands",
+        "holidays": "491 holiday homes"
+      },
+      {
+        "country": "Poland",
+        "holidays": "308 holiday homes"
+      },
+      {
+        "country": "Belgium",
+        "holidays": "270 holiday homes"
+      },
+      {
+        "country": "Slovakia",
+        "holidays": "141 holiday homes"
+      },
+      {
+        "country": "Slovenia",
+        "holidays": "119 holiday homes"
+      },
+      {
+        "country": "Ireland",
+        "holidays": "68 holiday homes"
+      },
+      {
+        "country": "Malta",
+        "holidays": "64 holiday homes"
+      },
+      {
+        "country": "Bulgaria",
+        "holidays": "63 holiday homes"
+      },
+      {
+        "country": "Ukraine",
+        "holidays": "47 holiday homes"
+      },
+      {
+        "country": "Montenegro",
+        "holidays": "39 holiday homes"
+      },
+      {
+        "country": "Albania",
+        "holidays": "34 holiday homes"
+      },
+      {
+        "country": "Bosnia And Herzegovina",
+        "holidays": "25 holiday homes"
+      },
+      {
+        "country": "Romania",
+        "holidays": "17 holiday homes"
+      },
+      {
+        "country": "Luxembourg",
+        "holidays": "12 holiday homes"
+      },
+      {
+        "country": "Serbia",
+        "holidays": "7 holiday homes"
+      },
+      {
+        "country": "Iceland",
+        "holidays": "6 holiday homes"
+      },
+      {
+        "country": "Lithuania",
+        "holidays": "6 holiday homes"
+      },
+      {
+        "country": "The Former Yugoslav Republic Of Macedonia",
+        "holidays": "6 holiday homes"
+      },
+      {
+        "country": "Andorra",
+        "holidays": "5 holiday homes"
+      }
+    ],
+    "NORTH AMERICA": [
+      {
+        "country": "United States Of America",
+        "holidays": "3017 holiday homes"
+      },
+      {
+        "country": "Mexico",
+        "holidays": "569 holiday homes"
+      },
+      {
+        "country": "Dominican Republic",
+        "holidays": "365 holiday homes"
+      },
+      {
+        "country": "Cuba",
+        "holidays": "257 holiday homes"
+      },
+      {
+        "country": "Canada",
+        "holidays": "164 holiday homes"
+      },
+      {
+        "country": "Costa Rica",
+        "holidays": "147 holiday homes"
+      },
+      {
+        "country": "Jamaica",
+        "holidays": "115 holiday homes"
+      },
+      {
+        "country": "Aruba",
+        "holidays": "37 holiday homes"
+      },
+      {
+        "country": "Puerto  Rico",
+        "holidays": "37 holiday homes"
+      },
+      {
+        "country": "Saint Martin",
+        "holidays": "34 holiday homes"
+      },
+      {
+        "country": "Sint Maarten",
+        "holidays": "10 holiday homes"
+      },
+      {
+        "country": "Belize",
+        "holidays": "9 holiday homes"
+      },
+      {
+        "country": "Panama",
+        "holidays": "9 holiday homes"
+      },
+      {
+        "country": "Cracao",
+        "holidays": "6 holiday homes"
+      }
+    ],
+    "SOUTH AMERICA": [
+      {
+        "country": "Colombia",
+        "holidays": "198 holiday homes"
+      },
+      {
+        "country": "Chile",
+        "holidays": "44 holiday homes"
+      },
+      {
+        "country": "Brazil",
+        "holidays": "39 holiday homes"
+      },
+      {
+        "country": "Argentina",
+        "holidays": "28 holiday homes"
+      },
+      {
+        "country": "Peru",
+        "holidays": "15 holiday homes"
+      },
+      {
+        "country": "Ecuador",
+        "holidays": "7 holiday homes"
+      }
+    ],
+    "AFRICA": [
+      {
+        "country": "Kenya",
+        "holidays": "613 holiday homes"
+      },
+      {
+        "country": "South Africa",
+        "holidays": "277 holiday homes"
+      },
+      {
+        "country": "Morocco",
+        "holidays": "71 holiday homes"
+      },
+      {
+        "country": "Tanzania",
+        "holidays": "70 holiday homes"
+      },
+      {
+        "country": "Rwanda",
+        "holidays": "21 holiday homes"
+      },
+      {
+        "country": "Burubi",
+        "holidays": "19 holiday homes"
+      },
+      {
+        "country": "Madagascar",
+        "holidays": "14 holiday homes"
+      },
+      {
+        "country": "Egypt",
+        "holidays": "12 holiday homes"
+      },
+      {
+        "country": "Tunisia",
+        "holidays": "7 holiday homes"
+      },
+      {
+        "country": "Seychelles",
+        "holidays": "5 holiday homes"
+      }
+    ],
+    "OCEANIA": [
+      {
+        "country": "Australia",
+        "holidays": "397 holiday homes"
+      },
+      {
+        "country": "New Zealand",
+        "holidays": "48 holiday homes"
+      },
+      {
+        "country": "French Polynesia",
+        "holidays": "18 holiday homes"
+      }
+    ]
+  }
 }
