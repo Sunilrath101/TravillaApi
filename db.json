@@ -3435,7 +3435,7 @@
         "holidays": "17 holiday homes"
       },
       {
-        "country": "Hong Kong Special Administrative Region Of China",
+        "country": "Hong Kong (China)",
         "holidays": "16 holiday homes"
       },
       {
@@ -3737,5 +3737,42 @@
         "holidays": "18 holiday homes"
       }
     ]
-  }
+  },
+  "state": [
+    { "vacation": "11 vacation rentals", "name": "Andhra Pradesh" },
+    { "vacation": "28 vacation rentals", "name": "Arunachal Pradesh" },
+    { "vacation": "8 vacation rentals", "name": "Assam" },
+    { "vacation": "5 vacation rentals", "name": "Bihar" },
+    { "vacation": "47 vacation rentals", "name": "Chandigarh" },
+    { "vacation": "4 vacation rentals", "name": "Chhattisgarh" },
+    { "vacation": "18 vacation rentals", "name": "Dadra and Nagar Haveli" },
+    { "vacation": "16 vacation rentals", "name": "Daman and Diu" },
+    { "vacation": "19 vacation rentals", "name": "Delhi" },
+    { "vacation": "104 vacation rentals", "name": "Goa" },
+    { "vacation": "18 vacation rentals", "name": "Gujarat" },
+    { "vacation": "48 vacation rentals", "name": "Haryana" },
+    { "vacation": "37 vacation rentals", "name": "Himachal Pradesh" },
+    { "vacation": "17 vacation rentals", "name": "Jammu and Kashmir" },
+    { "vacation": "15 vacation rentals", "name": "Jharkhand" },
+    { "vacation": "28 vacation rentals", "name": "Karnataka" },
+    { "vacation": "25 vacation rentals", "name": "Kerala" },
+    { "vacation": "74 vacation rentals", "name": "Lakshadweep" },
+    { "vacation": "12 vacation rentals", "name": "Madhya Pradesh" },
+    { "vacation": "11 vacation rentals", "name": "Maharashtra" },
+    { "vacation": "17 vacation rentals", "name": "Manipur" },
+    { "vacation": "27 vacation rentals", "name": "Meghalaya" },
+    { "vacation": "31 vacation rentals", "name": "Mizoram" },
+    { "vacation": "12 vacation rentals", "name": "Nagaland" },
+    { "vacation": "17 vacation rentals", "name": "Odisha" },
+    { "vacation": "18 vacation rentals", "name": "Puducherry" },
+    { "vacation": "17 vacation rentals", "name": "Punjab" },
+    { "vacation": "13 vacation rentals", "name": "Rajasthan" },
+    { "vacation": "17 vacation rentals", "name": "Sikkim" },
+    { "vacation": "18 vacation rentals", "name": "Tamil Nadu" },
+    { "vacation": "17 vacation rentals", "name": "Telangana" },
+    { "vacation": "19 vacation rentals", "name": "Tripura" },
+    { "vacation": "27 vacation rentals", "name": "Uttarakhand" },
+    { "vacation": "47 vacation rentals", "name": "Uttar Pradesh" },
+    { "vacation": "79 vacation rentals", "name": "West Bengal" }
+  ]
 }
